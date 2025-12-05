@@ -471,7 +471,7 @@ Expected output:
 **Sepehr Zahedi Abghari**
 - GitHub: [@rSepehr](https://github.com/rSepehr)
 - Email: sepehr.zahede@gmail.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/rSepehr)
+- LinkedIn: [Sepehr Zahedi Abghari](https://linkedin.com/in/rSepehr)
 
 
 ### Support the Project
