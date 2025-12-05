@@ -180,9 +180,7 @@ Note: ESP32 has internal pull-ups, external resistors optional
 
 
 
-```markdown
 ![Circuit Schematic](docs/images/schematic.png)
-```
 
 ---
 
