@@ -1,0 +1,83 @@
+# Arduino
+*.ino.bin
+*.ino.elf
+*.ino.map
+*.ino.hex
+
+# Build directories
+build/
+.build/
+*.build/
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+.vscode/
+.clang_complete
+.gcc-flags.json
+
+# IDE files
+*.swp
+*.swo
+*~
+.DS_Store
+.idea/
+*.iml
+.vscode/settings.json
+.vscode/c_cpp_properties.json
+
+# Compiled files
+*.o
+*.a
+*.obj
+
+# Logs
+*.log
+debug.log
+
+# User configuration (WiFi passwords)
+config.h
+secrets.h
+credentials.h
+
+# Documentation build
+docs/_build/
+docs/.doctrees/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.Spotlight-V100
+.Trashes
+
+# Backup files
+*.bak
+*.backup
+*~
+*.old
+
+# Test files
+test/
+tests/
+*.test
+
+# Screenshots (optional - remove if you want to commit them)
+# screenshots/
+# *.png
+# *.jpg
+
+# Temporary files
+tmp/
+temp/
+*.tmp
