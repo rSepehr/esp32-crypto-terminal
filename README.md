@@ -9,7 +9,7 @@
 
 *Transform your ESP32 into a powerful crypto trading terminal with advanced charting, portfolio tracking, and market analysis.*
 
-[Features](#-features) • [Hardware](#-hardware-requirements) • [Installation](#-installation) • [Usage](#-usage) • [Screenshots](#-screenshots) • [Contributing](#-contributing)
+[Features](#-features) • [Hardware](#-hardware-requirements) • [Usage](#-usage) • [Contributing](#-contributing)
 
 
 ---
@@ -18,16 +18,10 @@
 
 - [Overview](#-overview)
 - [Features](#-features)
-- [Hardware Requirements](#-hardware-requirements)
 - [Circuit Diagram](#-circuit-diagram)
-- [Installation](#-installation)
-- [Configuration](#-configuration)
 - [Usage](#-usage)
 - [API Reference](#-api-reference)
-- [Screenshots](#-screenshots)
 - [Troubleshooting](#-troubleshooting)
-- [Contributing](#-contributing)
-- [License](#-license)
 - [Acknowledgments](#-acknowledgments)
 
 ---
