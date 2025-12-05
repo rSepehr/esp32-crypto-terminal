@@ -181,7 +181,7 @@ Note: ESP32 has internal pull-ups, external resistors optional
 
 
 ```markdown
-![Circuit Schematic](docs/images/schematic.png)
+![Circuit Schematic](https://raw.githubusercontent.com/rSepehr/esp32-crypto-terminal/main/docs/images/schematic.png)
 ```
 
 ---
